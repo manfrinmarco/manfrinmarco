@@ -12,8 +12,8 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcomanfrin) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/marcomanfrin04) 
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=manfrinmarco&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=manfrinmarco&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=marcomanfrin&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=marcomanfrin&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcomanfrin&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
